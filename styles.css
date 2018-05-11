@@ -1,9 +1,55 @@
+
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0608;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 img {
-    width: 300px;
+    width: 700px;
+    
 }
 body {
     text-align: center;
-    font-family: "Arial";
-    background: azure;
-    color: purple;
+    font-family: "Verdana";
+    background: #ff6666;
+    color: #330000;
 }
+li a {
+    display: block;
+    width: 65px;
+}
+
+.topnav {
+    background-color: ##060828;
+    overflow: hidden;
+    text-align: center;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 60px;
+    text-decoration: overline;
+    font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #d1fffd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #dfd1ff;
+    color: white;
+}
+
