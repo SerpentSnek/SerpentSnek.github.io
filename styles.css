@@ -23,6 +23,7 @@ body {
     background-position: left top;
     background-attachment: fixed;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 li a {
     display: block;
