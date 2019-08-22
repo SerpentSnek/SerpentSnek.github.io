@@ -20,6 +20,7 @@ body {
     //background: #ff6666;
     color: #330000;
     background-image: url("mesa formation but png.png");
+    background-size:50%;
 }
 li a {
     display: block;
