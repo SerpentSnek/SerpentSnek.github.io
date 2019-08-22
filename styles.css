@@ -3,10 +3,7 @@
     list-style-type: none;
     text-algin: center;
     margin: 0;
-    padding-top: 50px;
-    padding-right: 80px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+    padding: 50px 80px 50px 80px;
     overflow: hidden;
     background-color: #0608;
     position: fixed;
