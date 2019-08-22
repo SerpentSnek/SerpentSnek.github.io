@@ -21,7 +21,7 @@ body {
     color: #330000;
     background-image: url("mesa formation but png.png");
     background-position: left top;
-    background-size: contain;
+    background-size: cover;
 }
 li a {
     display: block;
