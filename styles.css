@@ -2,10 +2,10 @@
 .topnav {
     list-style-type: none;
     margin: 0;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     padding-left: 90px;
-    padding-right: 20px;
+    padding-right: 25px;
     overflow: hidden;
     background-color: #0608;
     position: fixed;
