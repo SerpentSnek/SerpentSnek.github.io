@@ -4,7 +4,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 25px;
-    padding-left: 150px;
+    padding-left: 90px;
     padding-right: 20px;
     overflow: hidden;
     background-color: #0608;
@@ -44,7 +44,7 @@ li a {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 25px 60px;
+    padding: 25px 90px;
     text-decoration: overline;
     font-size: 20px;
 }
