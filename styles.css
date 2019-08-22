@@ -19,8 +19,8 @@ body {
     font-family: "Verdana";
     //background: #ff6666;
     color: #330000;
-    background-image: url("mesa formation but png.png") no-repeat;
-    background-position: left top;
+    background-image: url("mesa formation but png.png");
+    //background-position: left top;
     background-attachment: fixed;
     background-size: cover;
     //background-repeat: no-repeat;
